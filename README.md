@@ -1,4 +1,4 @@
-# Galois Field 256 library for C/C++
+# Galois Field 256 arithmetic library for C/C++
 
 Реализация арифметики GF(256) в виде библиотеки для языков C/C++ с приорететом на применеии в таком симметричном блочном шифре как AES
 
